@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"su",
+				"subject"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"Contact",
+				"contactaddress"
+			],
+			[
+				"cont",
+				"contactnumber"
+			],
+			[
+				"contact",
+				"contactaddress"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"_",
+				"_SESSION"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/vincent/Documents/MF190",
+		"/C/Users/vincent/AppData/Local/Temp/~EFS_UimEfsAPDULog.Txt",
+		"/C/xampp/htdocs/cake/app/View/Pages/index.ctp",
+		"/C/xampp/htdocs/cake/app/Model/Air.php",
+		"/C/xampp/htdocs/cake/app/Controller/PagesController.php",
+		"/C/xampp/htdocs/cake/app/Config/routes.php",
+		"/C/xampp/htdocs/cake/app/Config/core.php",
+		"/C/xampp/htdocs/cake/app/Config/database.php",
+		"/C/xampp/htdocs/project/app/View/Users/admin_index.ctp",
+		"/C/xampp/htdocs/project/app/View/Users/admin_edit.ctp",
+		"/C/xampp/htdocs/project/app/View/Users/index.ctp",
+		"/C/xampp/htdocs/preenrolmentsystem/teacher/outsec.php",
+		"/C/xampp/htdocs/preenrolmentsystem/teacher/up.php",
+		"/C/xampp/htdocs/preenrolmentsystem/teacher/gradeentry.php",
+		"/C/xampp/htdocs/preenrolmentsystem/teacher/filtersec.php",
+		"/C/xampp/htdocs/preenrolmentsystem/casher/confirm.php",
+		"/C/xampp/htdocs/preenrolmentsystem/admin/addteacherexec.php",
+		"/C/xampp/htdocs/preenrolmentsystem/admin/deleteteacher.php",
+		"/C/xampp/htdocs/preenrolmentsystem/admin/advisory.php",
+		"/C/xampp/htdocs/preenrolmentsystem/admin/saveadvisory.php",
+		"/C/xampp/htdocs/preenrolmentsystem/admin/putsub.php",
+		"/C/xampp/htdocs/preenrolmentsystem/admin/findState.php",
+		"/C/xampp/htdocs/preenrolmentsystem/admin.php",
+		"/C/xampp/htdocs/preenrolmentsystem/login.php",
+		"/C/xampp/htdocs/preenrolmentsystem/admin/student.php",
+		"/C/xampp/htdocs/sample/index.php",
+		"/C/xampp/htdocs/sample/con1.php",
+		"/C/Users/vincent/Downloads/BM622m Toolkit V2.04.04 (Shareware)/08-08-08-WIMACHUNTER-LIBRARY-MACSONLY - Copy.txt",
+		"/D/torrents/Unlock any dongle free from DC UNLOCKER (100% tested,Working Perfect) - by Dika123/How to Use.txt",
+		"/C/xampp/htdocs/preenrolmentsystem/registrar/students.php",
+		"/C/xampp/htdocs/preenrolmentsystem/registrar/addstud.php",
+		"/C/xampp/htdocs/preenrolmentsystem/casher/acceptstudent.php",
+		"/C/xampp/htdocs/preenrolmentsystem/casher/editprofile.php",
+		"/C/xampp/htdocs/preenrolmentsystem/student/editsprofile.php",
+		"/C/xampp/htdocs/preenrolmentsystem/student/edit_pre_reg.php",
+		"/C/xampp/htdocs/preenrolmentsystem/registrar/add.php",
+		"/C/xampp/htdocs/preenrolmentsystem/registrar.php",
+		"/C/xampp/htdocs/preenrolmentsystem/teacher.php",
+		"/C/xampp/htdocs/preenrolmentsystem/casher.php",
+		"/C/xampp/htdocs/preenrolmentsystem/registrar/edit.php",
+		"/C/xampp/htdocs/preenrolmentsystem/registrar/findstudent.php",
+		"/C/xampp/htdocs/preenrolmentsystem/registrar/index.php",
+		"/C/xampp/htdocs/preenrolmentsystem/auth.php",
+		"/C/xampp/htdocs/preenrolmentsystem/loginform.php",
+		"/C/xampp/htdocs/preenrolmentsystem/casher/index.php",
+		"/C/xampp/htdocs/preenrolmentsystem/connect.php",
+		"/C/wamp/www/preenrolmentsystem/connect.php",
+		"/C/wamp/www/preenrolmentsystem/loginform.php",
+		"/C/wamp/www/preenrolmentsystem/login.php",
+		"/C/wamp/www/preenrolmentsystem/help.php",
+		"/C/Users/vincent/Downloads/mac.txt",
+		"/C/Users/vincent/Documents/12-25-14.txt",
+		"/C/Users/vincent/Desktop/New Text Document.txt",
+		"/D/installer/AVG Internet Security 2014 build 4016 x64-x86 [ThumperDC]/Serials.txt",
+		"/C/Users/vincent/Downloads/Compressed/huawei-modem-unlocker/important.txt",
+		"/C/Users/vincent/Desktop/samgyupsal.txt",
+		"/C/Users/vincent/Downloads/BLUE LANTERN FREE INTERNET/apps/status.txt",
+		"/C/wamp/www/preenrolmentsystem/admin/student.php",
+		"/C/wamp/www/preenrolmentsystem/admin/editsprofile.php",
+		"/C/wamp/www/preenrolmentsystem/admin/edit_pre_reg.php",
+		"/C/wamp/www/preenrolmentsystem/admin/editmax.php",
+		"/C/wamp/www/preenrolmentsystem/pre_reg.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"logout",
+			"form",
+			"filter",
+			"class=\"o",
+			"odd",
+			"LEVEL",
+			"tot",
+			">&",
+			"filter",
+			"welcom",
+			"header",
+			"key",
+			"m_occupation"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

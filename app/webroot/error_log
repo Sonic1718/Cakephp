@@ -1,0 +1,86 @@
+[04-Sep-2015 23:54:02 Asia/Manila] PHP Parse error:  syntax error, unexpected ''port'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/Config/email.php on line 39
+[05-Sep-2015 17:42:09 Asia/Manila] PHP Parse error:  syntax error, unexpected ';' in /home/denrorg/public_html/app/Controller/ComplaintsController.php on line 105
+[05-Sep-2015 17:42:44 Asia/Manila] PHP Parse error:  syntax error, unexpected ';' in /home/denrorg/public_html/app/Controller/ComplaintsController.php on line 105
+[05-Sep-2015 17:43:16 Asia/Manila] PHP Parse error:  syntax error, unexpected ';' in /home/denrorg/public_html/app/Controller/ComplaintsController.php on line 105
+[05-Sep-2015 17:43:19 Asia/Manila] PHP Parse error:  syntax error, unexpected ';' in /home/denrorg/public_html/app/Controller/ComplaintsController.php on line 105
+[05-Sep-2015 17:45:11 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/denrorg/public_html/app/Controller/ComplaintsController.php on line 172
+[05-Sep-2015 19:09:08 Asia/Manila] PHP Parse error:  syntax error, unexpected ''host'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/Config/email.php on line 30
+[05-Sep-2015 19:09:53 Asia/Manila] PHP Parse error:  syntax error, unexpected ''port'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/Config/email.php on line 30
+[05-Sep-2015 19:14:03 Asia/Manila] PHP Parse error:  syntax error, unexpected '$Email' (T_VARIABLE) in /home/denrorg/public_html/app/Controller/ComplaintsController.php on line 116
+[08-Sep-2015 20:08:14 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/denrorg/public_html/app/Controller/PostsController.php on line 510
+[10-Sep-2015 22:38:25 Asia/Manila] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/denrorg/public_html/app/Model/Picture.php on line 16
+[10-Sep-2015 22:47:34 Asia/Manila] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/denrorg/public_html/app/Model/Picture.php on line 16
+[10-Sep-2015 22:47:50 Asia/Manila] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/denrorg/public_html/app/Model/Picture.php on line 16
+[11-Sep-2015 07:49:07 UTC] PHP Warning:  include(/home/denrorg/public_html/app/Config/core.php): failed to open stream: No such file or directory in /home/denrorg/public_html/lib/Cake/Core/Configure.php on line 72
+[11-Sep-2015 07:49:07 UTC] PHP Warning:  include(): Failed opening '/home/denrorg/public_html/app/Config/core.php' for inclusion (include_path='/home/denrorg/public_html/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/denrorg/public_html/lib/Cake/Core/Configure.php on line 72
+[11-Sep-2015 07:49:07 UTC] PHP Fatal error:  Can't find application core file. Please create /home/denrorg/public_html/app/Config/core.php, and make sure it is readable by PHP. in /home/denrorg/public_html/lib/Cake/Core/Configure.php on line 77
+[11-Sep-2015 07:49:28 UTC] PHP Warning:  include(/home/denrorg/public_html/app/Config/core.php): failed to open stream: No such file or directory in /home/denrorg/public_html/lib/Cake/Core/Configure.php on line 72
+[11-Sep-2015 07:49:28 UTC] PHP Warning:  include(): Failed opening '/home/denrorg/public_html/app/Config/core.php' for inclusion (include_path='/home/denrorg/public_html/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/denrorg/public_html/lib/Cake/Core/Configure.php on line 72
+[11-Sep-2015 07:49:28 UTC] PHP Fatal error:  Can't find application core file. Please create /home/denrorg/public_html/app/Config/core.php, and make sure it is readable by PHP. in /home/denrorg/public_html/lib/Cake/Core/Configure.php on line 77
+[11-Sep-2015 16:03:57 Asia/Manila] PHP Fatal error:  Cannot redeclare class Wildlifefarm in /home/denrorg/public_html/app/Model/Wildlifelocal.php on line 292
+[11-Sep-2015 16:09:09 Asia/Manila] PHP Fatal error:  Cannot redeclare class Wildlifefarm in /home/denrorg/public_html/app/Model/Wildlifelocal.php on line 292
+[11-Sep-2015 16:11:52 Asia/Manila] PHP Fatal error:  Cannot redeclare class Wildlifefarm in /home/denrorg/public_html/app/Model/Wildlifelocal.php on line 278
+[11-Sep-2015 17:52:24 Asia/Manila] PHP Fatal error:  Cannot redeclare class Wildlifefarm in /home/denrorg/public_html/app/Model/Wildlifelocal.php on line 278
+[11-Sep-2015 17:53:44 Asia/Manila] PHP Fatal error:  Cannot redeclare class Wildlifefarm in /home/denrorg/public_html/app/Model/Wildlifelocal.php on line 278
+[11-Sep-2015 23:08:47 Asia/Manila] PHP Fatal error:  Call to a member function saveAll() on a non-object in /home/denrorg/public_html/app/Controller/UsersController.php on line 62
+[17-Sep-2015 22:39:17 Asia/Manila] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/denrorg/public_html/app/Controller/PostsController.php on line 84
+[17-Sep-2015 22:41:03 Asia/Manila] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/denrorg/public_html/app/Controller/PostsController.php on line 84
+[17-Sep-2015 22:42:14 Asia/Manila] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/denrorg/public_html/app/Controller/PostsController.php on line 84
+[17-Sep-2015 22:43:51 Asia/Manila] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/denrorg/public_html/app/Controller/PostsController.php on line 84
+[18-Sep-2015 09:23:07 Asia/Manila] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/denrorg/public_html/app/Model/User.php on line 73
+[18-Sep-2015 09:23:15 Asia/Manila] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/denrorg/public_html/app/Model/User.php on line 73
+[18-Sep-2015 09:26:19 Asia/Manila] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/denrorg/public_html/app/Model/User.php on line 75
+[18-Sep-2015 09:26:22 Asia/Manila] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/denrorg/public_html/app/Model/User.php on line 75
+[18-Sep-2015 09:26:38 Asia/Manila] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/denrorg/public_html/app/Model/User.php on line 75
+[02-Oct-2015 20:26:33 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/denrorg/public_html/app/Controller/PostsController.php on line 502
+[03-Oct-2015 01:51:43 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/denrorg/public_html/app/Controller/PostsController.php on line 502
+[03-Oct-2015 11:49:08 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/denrorg/public_html/app/Controller/UsersController.php on line 55
+[08-Oct-2015 09:35:01 Asia/Manila] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/denrorg/public_html/app/Controller/PostsController.php on line 1418
+[11-Oct-2015 12:04:28 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/denrorg/public_html/app/Controller/PostsController.php on line 839
+[11-Oct-2015 12:22:01 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/denrorg/public_html/app/Controller/PostsController.php on line 839
+[11-Oct-2015 13:32:35 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/denrorg/public_html/app/Controller/PostsController.php on line 326
+[11-Oct-2015 13:32:44 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/denrorg/public_html/app/Controller/PostsController.php on line 326
+[11-Oct-2015 13:32:54 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/denrorg/public_html/app/Controller/PostsController.php on line 326
+[11-Oct-2015 13:33:16 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/denrorg/public_html/app/Controller/PostsController.php on line 326
+[11-Oct-2015 15:41:32 Asia/Manila] PHP Fatal error:  Call to a member function find() on a non-object in /home/denrorg/public_html/app/Controller/PagesController.php on line 49
+[11-Oct-2015 15:42:26 Asia/Manila] PHP Fatal error:  Call to a member function find() on a non-object in /home/denrorg/public_html/app/Controller/PagesController.php on line 49
+[11-Oct-2015 15:42:38 Asia/Manila] PHP Fatal error:  Call to a member function find() on a non-object in /home/denrorg/public_html/app/Controller/PagesController.php on line 51
+[11-Oct-2015 15:43:07 Asia/Manila] PHP Fatal error:  Call to a member function find() on a non-object in /home/denrorg/public_html/app/Controller/PagesController.php on line 51
+[11-Oct-2015 15:43:14 Asia/Manila] PHP Fatal error:  Call to a member function find() on a non-object in /home/denrorg/public_html/app/Controller/PagesController.php on line 51
+[12-Oct-2015 16:54:51 Asia/Manila] PHP Fatal error:  Cannot redeclare PostsController::admin_delete() in /home/denrorg/public_html/app/Controller/PostsController.php on line 131
+[12-Oct-2015 16:55:37 Asia/Manila] PHP Fatal error:  Cannot redeclare PostsController::admin_delete() in /home/denrorg/public_html/app/Controller/PostsController.php on line 131
+[12-Oct-2015 16:56:08 Asia/Manila] PHP Fatal error:  Cannot redeclare PostsController::admin_delete() in /home/denrorg/public_html/app/Controller/PostsController.php on line 131
+[16-Oct-2015 21:03:13 Asia/Manila] PHP Fatal error:  Cannot redeclare PostsController::admin_delete2() in /home/denrorg/public_html/app/Controller/PostsController.php on line 163
+[16-Oct-2015 21:03:34 Asia/Manila] PHP Fatal error:  Cannot redeclare PostsController::admin_delete2() in /home/denrorg/public_html/app/Controller/PostsController.php on line 163
+[18-Oct-2015 19:12:26 Asia/Manila] PHP Parse error:  syntax error, unexpected ''=>$result['' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/View/Complaints/admin_viewcomplaint.ctp on line 24
+[18-Oct-2015 19:12:40 Asia/Manila] PHP Parse error:  syntax error, unexpected ''=>$result['' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/View/Complaints/admin_viewcomplaint.ctp on line 24
+[20-Oct-2015 13:25:59 Asia/Manila] PHP Fatal error:  Cannot redeclare UsersController::$components in /home/denrorg/public_html/app/Controller/UsersController.php on line 542
+[20-Oct-2015 13:30:17 Asia/Manila] PHP Fatal error:  Cannot redeclare UsersController::$components in /home/denrorg/public_html/app/Controller/UsersController.php on line 542
+[20-Oct-2015 13:30:35 Asia/Manila] PHP Fatal error:  Cannot redeclare UsersController::$components in /home/denrorg/public_html/app/Controller/UsersController.php on line 542
+[20-Oct-2015 13:30:55 Asia/Manila] PHP Fatal error:  Cannot redeclare UsersController::$components in /home/denrorg/public_html/app/Controller/UsersController.php on line 542
+[20-Oct-2015 13:31:15 Asia/Manila] PHP Fatal error:  Cannot redeclare UsersController::$components in /home/denrorg/public_html/app/Controller/UsersController.php on line 31
+[20-Oct-2015 13:53:28 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/denrorg/public_html/app/Controller/UsersController.php on line 567
+[20-Oct-2015 13:53:44 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/denrorg/public_html/app/Controller/UsersController.php on line 567
+[20-Oct-2015 17:30:59 Asia/Manila] PHP Parse error:  syntax error, unexpected ''risk'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/Model/Complaint.php on line 31
+[20-Oct-2015 17:31:05 Asia/Manila] PHP Parse error:  syntax error, unexpected ''risk'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/Model/Complaint.php on line 31
+[20-Oct-2015 17:31:12 Asia/Manila] PHP Parse error:  syntax error, unexpected ''risk'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/Model/Complaint.php on line 31
+[20-Oct-2015 17:31:27 Asia/Manila] PHP Parse error:  syntax error, unexpected ''risk'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/Model/Complaint.php on line 31
+[20-Oct-2015 17:32:55 Asia/Manila] PHP Parse error:  syntax error, unexpected ''risk'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/Model/Complaint.php on line 31
+[20-Oct-2015 17:32:56 Asia/Manila] PHP Parse error:  syntax error, unexpected ''risk'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/Model/Complaint.php on line 31
+[20-Oct-2015 17:33:55 Asia/Manila] PHP Parse error:  syntax error, unexpected ''risk'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/Model/Complaint.php on line 31
+[20-Oct-2015 20:53:43 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/denrorg/public_html/app/Controller/PostsController.php on line 339
+[21-Oct-2015 10:39:13 Asia/Manila] PHP Parse error:  syntax error, unexpected ''0916'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/denrorg/public_html/app/View/Users/register.ctp on line 56
+[21-Oct-2015 14:21:47 Asia/Manila] PHP Fatal error:  Class 'ChikkaSMS' not found in /home/denrorg/public_html/app/Controller/ComplaintsController.php on line 210
+[21-Oct-2015 14:22:06 Asia/Manila] PHP Fatal error:  Class 'ChikkaSMS' not found in /home/denrorg/public_html/app/Controller/ComplaintsController.php on line 210
+[21-Oct-2015 14:22:46 Asia/Manila] PHP Fatal error:  Class 'ChikkaSMS' not found in /home/denrorg/public_html/app/Controller/ComplaintsController.php on line 210
+[21-Oct-2015 21:10:52 Asia/Manila] PHP Fatal error:  Class 'ChikkaSMS' not found in /home/denrorg/public_html/app/Controller/ComplaintsController.php on line 210
+[23-Oct-2015 08:01:39 Asia/Manila] PHP Fatal error:  Cannot redeclare ComplaintsController::admin_complaintList() in /home/denrorg/public_html/app/Controller/ComplaintsController.php on line 233
+[23-Oct-2015 14:22:33 Asia/Manila] PHP Fatal error:  Call to a member function find() on a non-object in /home/denrorg/public_html/app/Controller/PagesController.php on line 1442
+[29-Oct-2015 01:43:45 Asia/Manila] PHP Fatal error:  Out of memory (allocated 3407872) (tried to allocate 248 bytes) in /home/denrorg/public_html/lib/Cake/Controller/CakeErrorController.php on line 62
+[29-Oct-2015 01:48:29 Asia/Manila] PHP Fatal error:  Out of memory (allocated 3407872) (tried to allocate 72 bytes) in /home/denrorg/public_html/lib/Cake/Event/CakeEventManager.php on line 157
+[29-Oct-2015 03:28:32 Asia/Manila] PHP Fatal error:  Out of memory (allocated 3407872) (tried to allocate 248 bytes) in /home/denrorg/public_html/lib/Cake/Controller/CakeErrorController.php on line 62
+[29-Oct-2015 03:28:33 Asia/Manila] PHP Fatal error:  Out of memory (allocated 3407872) (tried to allocate 72 bytes) in /home/denrorg/public_html/lib/Cake/Event/CakeEventManager.php on line 109
+[29-Oct-2015 09:02:22 Asia/Manila] PHP Fatal error:  Out of memory (allocated 3407872) (tried to allocate 5120 bytes) in /home/denrorg/public_html/lib/Cake/Controller/Component/PaginatorComponent.php on line 227
+[29-Oct-2015 09:30:08 Asia/Manila] PHP Fatal error:  Out of memory (allocated 3407872) (tried to allocate 72 bytes) in /home/denrorg/public_html/lib/Cake/Event/CakeEventManager.php on line 157
+[20-Nov-2015 18:11:55 Asia/Manila] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/denrorg/public_html/app/Controller/UsersController.php on line 33
+[20-Nov-2015 18:12:57 Asia/Manila] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/denrorg/public_html/app/Controller/UsersController.php on line 33

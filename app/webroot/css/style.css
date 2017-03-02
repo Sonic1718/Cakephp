@@ -1,0 +1,26 @@
+#fader{
+    height: 300px;
+    margin-left: -1em;
+}
+#fader img{
+	height: 315px;
+    position:absolute;
+}
+
+#next{
+    right: 100px;   
+}
+
+#prev{
+    left: 100px;  
+}
+
+.error-message {
+	padding:5px 1px 5px 50px;
+	background-position: 10px center;
+	color: #D8000C;
+	background: #FFBABA;
+	background-image: url("/img/error.png");
+	background-size: 40px 30px;
+	background-repeat: no-repeat;
+}

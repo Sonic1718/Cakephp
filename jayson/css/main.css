@@ -1,0 +1,854 @@
+	/*navigation bar*/
+	.navbar .navbar-nav {
+  		display: inline-block;
+  		float: none;
+  		vertical-align: top;
+  		color:#000;
+	}
+
+	/* navbar */
+	.navbar-default {
+	    background-color: rgb(46,169,67);
+	    border-color: rgb(46,169,67);
+	    border-radius:0;
+	}
+
+	/* title */
+	.navbar-default .navbar-brand {
+		padding-left: 5px;
+	}
+	.navbar-fixed-top {
+    	height: 100px; /* Whatever you want. */
+	}
+	.navbar-brand img{
+		margin-top: -3px;
+	    height:128px;
+	}
+
+	.navbar-default .navbar-brand:hover,
+	.navbar-default .navbar-brand:focus {
+	    color: #5E5E5E;
+	}
+
+	.navbar .navbar-collapse {
+  		text-align: center;
+	}
+
+	.navbar-nav > li > a {
+	    padding-top: 42px;
+	    padding-bottom: 42px;
+		padding-left:62px;
+  		padding-right:20px;    
+		font-size: 12px;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: 700;
+		line-height: 15px;
+	}
+	.navbar .nav > li > a {
+	    color: #ffffff;
+	}
+	.navbar .nav > .members > a {
+		color: #404040;
+	}
+	.container {
+		max-width: 1020px;
+	}
+	.image-container {
+	    position: relative;
+	    width: 200px;
+		}
+	.image-container .after {
+	    position: absolute;
+	    top: 0;
+	    width: 100%;
+	    height: 100%;
+	    display: none;
+	    cursor: pointer;
+	}
+	.image-container .after img{
+		position: absolute;
+		left: 80px;
+		bottom: 50px;
+	}
+	.image-container:hover .after {
+		margin: 10px;
+	    display: block;
+	    background: rgba(0, 0, 0, .6);
+	}
+	/*end navigation bar*/
+
+/*Header*/
+	.image-back{
+		
+	}	
+	.group{
+		padding-top: 30px;
+		padding-bottom: 20px;
+	}
+	.group p{
+		font-size: 11px;
+		font-weight: bold;
+	}
+
+	.scroll{
+		padding-top: 0px;
+		padding-bottom: 50px;
+		background-color: #ffffff;
+	}
+	p{
+		font-size: 12px;
+		font-weight: bold;
+	}
+	h1 {
+		font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+		font-size: 30px;
+	}
+	h3 {
+		font-weight: bold;
+		font-size: 18px;
+		color: #000000;
+	}
+	strong {
+		font-size: 14px;
+		font-weight: bold;
+    	color:green;
+	}
+	hr{
+		display: block;
+	    height: 1px;
+	    border: 0;
+	    border-top: 1px solid #C0C0C0;
+	}
+	.info {
+		background: url('../images/background-shadow.jpg') no-repeat;
+		background-size: cover;
+		text-align: justify;
+		padding-top: 30px;
+	    padding-bottom: 30px;
+	} 
+	.s-logo {
+		padding-top:10px !important;
+		padding-bottom:10px !important;
+	}
+	.info hr{
+		display: block;
+	    height: 1px;
+	    border: 0;
+	    border-top: 2px solid #C0C0C0;
+	}
+	.check{
+		padding-top:10px;
+		padding-bottom:10px;
+	}
+	.profile {
+		padding-top:10px;
+		padding-bottom:10px;
+	}
+	.arrow{
+		padding-bottom: 2px;
+	}
+	#myCarousel {
+		box-shadow:0px 4px 15px 0px gray;
+	}
+	.carousel-inner {
+		
+	}
+	.carousel-inner > .item > img{
+       width:1000px;
+       height:439px;
+     }
+    small {
+    	font-style: italic;
+    	font-weight: normal;
+    	color:#880000;
+    	font-weight: 500px;
+    	font-size: 14px;
+    }
+	.carousel-control {
+		background-image:none !important;
+		opacity: 1;
+	}
+	.carousel-controls .left img{
+		position: absolute;
+      	left: -10px;
+      	bottom: 20px;
+	}
+	.carousel-controls .right img{
+		position: absolute;
+      	right: -10px;
+      	bottom: 20px;
+	}
+	.carousel-control:hover {
+		background-image:none !important;
+	}
+	.carousel-indicators {
+	  bottom:-53px;
+	}
+	.carousel-indicators li {
+		width: 15px;
+	    height: 15px;
+	    border-radius: 50%;
+	    border: none;
+	    background-color: #336600;
+	    margin: 5px;
+	}
+	.carousel-indicators .active {
+		width: 15px;
+    	height: 15px;
+    	border-radius: 50%; 
+	  	margin: 5px;
+    	background-color: #FFD700
+	}
+	.glass{
+		position: absolute;
+	}
+	.carousel-caption{
+        left: 5%;
+        top: 30%;
+        text-align: left;
+	}
+	.carousel-caption p{
+        color: #C0C0C0;
+        font-size: 13px;
+	}
+	.review {
+		margin-right: 5px;
+		background: url('../images/group_fitness1.jpg') no-repeat;
+		background-size: cover;
+		color: #000;
+	}
+	.review2 {
+		background: url('../images/group_fitness3.jpg') no-repeat;
+		background-size: cover;
+	}
+	a{
+		color:#000000;
+	}
+	a:hover{
+		color:#ffffff;
+	}
+	.green2 {
+		padding-top: 166px;
+	}
+	.yellow {
+		margin-bottom: 5px;
+		padding-top: 123px;
+	}
+	.yellow2 {
+		margin-right: 5px;
+		background-color: #C0C0C0;
+	}
+	.group-review {
+		background: url('../images/group_fitness1.jpg') no-repeat;
+		background-size: cover;
+		opacity: 0.7;
+	}
+	.help-us {
+		margin-top:-10px;
+		padding-bottom:10px;
+		padding-left:10px;
+		text-align:center;
+	}
+	.help-us strong {
+		font-size: 15px;
+		font-weight: bold;
+    	color:#880000;
+	}
+	.column-left{ 
+		background: url('../images/group_fitness1.jpg') no-repeat;
+		background-size: cover;
+		float: left; 
+		width: 30%; 
+		text-align: justify;
+		padding: 20px;
+		color: #000000; 
+	}
+	.column-left h3{ 
+		font-size: 22px;
+		color: #000000; 
+	}
+	.group-review2 {
+		padding-top: 26px;
+	}
+	.column-right{ 
+		background: url('../images/group_fitness3.jpg') no-repeat;
+		background-size: cover;
+		float: right;
+	 	width: 30%; 
+	 	text-align: justify;
+	 	padding-top: 185px;
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-bottom: 15px;
+		color: #000000;
+	}
+	.column-right h3{ 
+		font-size: 22px;
+		color: #000000; 
+	}
+	.column-center{ 
+		display: inline-block;
+		width: 40%;
+		text-align: justify;
+		padding-top: 0px;
+		padding-left: 20px;
+		padding-right: 20px; 
+		color: #000000;
+	}
+	.line-left{ 
+		float: left; 
+		width: 27%; 
+	}
+	.line-right{ 
+		float: right;
+	 	width: 5%; 
+	}
+	.line-right img{  
+		padding-left: 2px;
+		padding-bottom: 2px;
+	}
+	.line-center{ 
+		display: inline-block;
+		width: 67%; 
+	}
+	.line-center img{  
+		height: 18px;
+		width: 100%;
+	}
+	.buddy-1 {
+		background: url('../images/group_fitness2.jpg') no-repeat;
+		background-size: cover;
+		padding-top: 81px;
+		margin-bottom: 5px;
+	}
+	.buddy-1 p{
+		font-size: 12px;
+		font-weight: bold;
+		color: #000000;
+		text-align: left;
+	}
+	.buddy-2 {
+		padding-top: 15px;
+		padding-bottom: 19px;
+		background-color: #C0C0C0;
+	}
+	.sponsor {
+		padding-top:15px; 
+		padding-bottom:15px; 
+	}
+    .fujifilm {
+    	float:right;
+    	padding-right: 30px;
+    }
+    .cox {
+    	float:left;
+    	padding-left: 20px;
+    }
+    .bananajohn img{
+    	display: block;
+    	margin: 0 auto;
+    }
+	.down {
+		padding-top: 12px;
+	}
+	footer {
+		background-color: #D8D8D8;	
+	}
+	footer .footer-p{
+		padding-top: 25px;
+		padding-bottom: 20px;
+	}
+	footer p{
+		font-size: 12px;
+		font-weight: normal;
+	}
+	footer b{
+		font-size: 15px;
+	}
+	footer a{
+		color:#000;
+	}
+	footer a:hover{
+		color:#000;
+	}
+	footer .about{
+		float:left; 
+		width:30%;
+		padding-right:70px;
+		padding-left:15px;
+	}
+	footer .explore{
+		float:left; 
+		width:15%;
+	}
+	footer .browse{
+		float:left;
+		width:15%;
+	}
+	footer .contact{
+		float:left;
+		 width:20%;
+		 padding-right:60px;
+	}
+	footer .connect{
+		float:left; 
+		width:20%;
+	}
+	footer .logo-space img{
+		padding-right: 15px;
+		padding-left: 8px;
+		padding-bottom:15px;
+	}
+	footer .logo-footer{
+		float: right;
+		padding-top:15px;
+	}
+	footer .copyright {
+		padding-top:40px;
+	}
+	footer .green-footer{
+		padding: 5px;
+		background-color: rgb(46,169,67);
+	}
+
+
+
+/*Media Query*/
+
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px) { 
+		/*navigation bar*/
+	.navbar .navbar-nav {
+  		display: inline-block;
+  		float: none;
+  		vertical-align: top;
+  		color:#000;
+	}
+
+	/* navbar */
+	.navbar-default {
+	    background-color: rgb(46,169,67);
+	    border-color: rgb(46,169,67);
+	    border-radius:0;
+	}
+
+	/* title */
+	.navbar-default .navbar-brand {
+		padding-left: 0px;
+	}
+	.navbar-fixed-top {
+    	height: 100px; /* Whatever you want. */
+	}
+	.navbar-brand img{
+		margin-top: -3px;
+	    height:70px;
+	}
+
+	.navbar-default .navbar-brand:hover,
+	.navbar-default .navbar-brand:focus {
+	    color: #5E5E5E;
+	}
+
+	.navbar .navbar-collapse {
+  		text-align: center;
+	}
+
+	.navbar-nav > li > a {
+	    padding-top: 10px;
+	    padding-bottom: 10px;
+		padding-left:0px;
+  		padding-right:0px;
+	    font-size: 12px;
+	    font-weight: 800;
+	}
+	.navbar .nav > li > a {
+	    color: #ffffff;
+	}
+	.navbar .nav > .members > a {
+		color: #404040;
+	}
+	.container {
+		max-width: 1020px;
+	}
+	.image-container {
+	    position: relative;
+	    width: 200px;
+		}
+	.image-container .after {
+	    position: absolute;
+	    top: 0;
+	    width: 100%;
+	    height: 100%;
+	    display: none;
+	    cursor: pointer;
+	}
+	.image-container .after img{
+		position: absolute;
+		left: 80px;
+		bottom: 50px;
+	}
+	.image-container:hover .after {
+		margin: 10px;
+	    display: block;
+	    background: rgba(0, 0, 0, .6);
+	}
+	/*end navigation bar*/
+
+/*Header*/
+	.image-back{
+		
+	}	
+	.group{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.group p{
+		font-size: 11px;
+		font-weight: bold;
+	}
+
+	.scroll{
+		padding-top: 20px;
+		padding-bottom: 50px;
+		background-color: #ffffff;
+	}
+	p{
+		font-size: 12px;
+		font-weight: bold;
+	}
+	h1 {
+		font-family: "Courier New", Courier, monospace;
+		font-weight: 900;
+		font-size: 20px;
+	}
+	h3 {
+		font-weight: bold;
+		font-size: 18px;
+		color: #000000;
+	}
+	strong {
+		font-size: 14px;
+		font-weight: bold;
+    	color:green;
+	}
+	hr{
+		display: block;
+	    height: 1px;
+	    border: 0;
+	    border-top: 1px solid #C0C0C0;
+	}
+	.info {
+		background: url('../images/background-shadow.jpg') no-repeat;
+		background-size: cover;
+		text-align: justify;
+		padding-top: 30px;
+	    padding-bottom: 30px;
+	} 
+	.s-logo {
+		padding-top:10px !important;
+		padding-bottom:10px !important;
+	}
+	.info hr{
+		display: block;
+	    height: 1px;
+	    border: 0;
+	    border-top: 2px solid #C0C0C0;
+	}
+	.check{
+		padding-top:10px;
+		padding-bottom:10px;
+	}
+	.profile {
+		padding-top:10px;
+		padding-bottom:10px;
+	}
+	.arrow{
+		padding-bottom: 2px;
+	}
+	#myCarousel {
+		box-shadow:0px 4px 15px 0px;
+	}
+	.carousel-inner > .item > img{
+       width:1000px;
+       height:439px;
+     }
+    small {
+    	font-style: italic;
+    	font-weight: bold;
+    	color: red;
+    	font-size: 14px;
+    }
+	.carousel-control {
+		background-image:none !important;
+		opacity: 1;
+	}
+	.carousel-controls .left img{
+		position: absolute;
+      	left: -5px;
+      	bottom: 20px;
+      	height: 40px;
+	}
+	.carousel-controls .right img{
+		position: absolute;
+      	right: -5px;
+      	bottom: 18px;
+      	height:40px;
+	}
+	.carousel-control:hover {
+		background-image:none !important;
+	}
+	.carousel-indicators {
+	  bottom:-53px;
+	}
+	.carousel-indicators li {
+		width: 15px;
+	    height: 15px;
+	    border-radius: 50%;
+	    border: none;
+	    background-color: #336600;
+	    margin: 5px;
+	}
+	.carousel-indicators .active {
+		width: 15px;
+    	height: 15px;
+    	border-radius: 50%; 
+	  	margin: 5px;
+    	background-color: #FFD700
+	}
+	.glass{
+		position: absolute;
+	}
+	.carousel-caption{
+        left: 5%;
+        top: 20%;
+        text-align: left;
+	}
+	.carousel-caption p{
+        color: #C0C0C0;
+        font-size: 13px;
+	}
+	.review {
+		margin-right: 5px;
+		background: url('../images/group_fitness1.jpg') no-repeat;
+		background-size: cover;
+		color: #000;
+	}
+	.review2 {
+		background: url('../images/group_fitness3.jpg') no-repeat;
+		background-size: cover;
+	}
+	a{
+		color:#000000;
+	}
+	a:hover{
+		color:#ffffff;
+	}
+	.green2 {
+		padding-top: 166px;
+	}
+	.yellow {
+		margin-bottom: 5px;
+		padding-top: 123px;
+	}
+	.yellow2 {
+		margin-right: 5px;
+		background-color: #C0C0C0;
+	}
+	.group-review {
+		background: url('../images/group_fitness1.jpg') no-repeat;
+		background-size: cover;
+		opacity: 0.7;
+	}
+	.help-us {
+		margin-top:-10px;
+		padding-bottom:10px;
+		padding-left:0px;
+		text-align:center;
+	}
+	.help-us strong {
+		font-size: 12px;
+		font-weight: bold;
+    	color:#880000;
+	}
+	.column-left{ 
+		background: url('../images/group_fitness1.jpg') no-repeat;
+		background-size: cover;
+		float: left; 
+		width: 100%; 
+		text-align: justify;
+		padding: 20px;
+		color: #000000; 
+	}
+	.column-left h3{ 
+		font-size: 22px;
+		color: #000000; 
+	}
+	.group-review2 {
+		padding-top: 26px;
+	}
+	.column-right{ 
+		background: url('../images/group_fitness3.jpg') no-repeat;
+		background-size: cover;
+		float: right;
+	 	width: 100%; 
+	 	text-align: justify;
+	 	padding-top: 185px;
+		padding-left: 10px;
+		padding-right: 10px;
+		color: #000000;
+	}
+	.column-right h3{ 
+		font-size: 22px;
+		color: #000000; 
+	}
+	.column-center{ 
+		display: inline-block;
+		width: 100%;
+		text-align: justify;
+		padding-top: 0px;
+		padding-left: 15px;
+		padding-right: 15px; 
+		color: #000000;
+	}
+	.line-left{ 
+		float: left; 
+		width: 100%; 
+	}
+	.line-right{ 
+		float: right;
+	 	width: 100%; 
+	}
+	.line-right img{  
+		padding-left: 2px;
+		padding-bottom: 2px;
+	}
+	.line-center{ 
+		display: inline-block;
+		width: 100%; 
+	}
+	.line-center img{  
+		height: 18px;
+		width: 100%;
+	}
+	.buddy-1 {
+		background: url('../images/group_fitness2.jpg') no-repeat;
+		background-size: cover;
+		padding-top: 81px;
+		margin-bottom: 5px;
+	}
+	.buddy-1 p{
+		font-size: 12px;
+		font-weight: bold;
+		color: #000000;
+		text-align: left;
+	}
+	.buddy-2 {
+		padding-top: 15px;
+		padding-bottom: 19px;
+		background-color: #C0C0C0;
+	}
+	.sponsor {
+		padding-top:15px; 
+		padding-bottom:15px; 
+	}
+    .fujifilm {
+    	display: block;
+    	margin: 0 auto;
+    }
+    .cox {
+    	display: block;
+    	margin: 0 auto;
+    	padding-left: 80px;
+    	width: 100%;
+    }
+    .bananajohn {
+    	display: block;
+    	margin: 0 auto;
+    }
+	.down {
+		padding-top: 10px;
+		text-align: center;
+	}
+	footer {
+		background-color: #eeeeee;
+		
+    	
+	}
+	footer .footer-p{
+		padding-top: 50px;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+	footer p{
+		font-size: 12px;
+	}
+	footer b{
+		font-size: 15px;
+	}
+	footer a{
+		color:#000;
+	}
+	footer a:hover{
+		color:#000;
+	}
+	footer .about{
+		float:left; 
+		width:100%;
+		padding-right:0px;
+		padding-left:0px;
+	}
+	footer .explore{
+		float:left; 
+		width:100%;
+	}
+	footer .browse{
+		float:left;
+		width:100%;
+	}
+	footer .contact{
+		float:left;
+		 width:100%;
+		 padding-right:0px;
+	}
+	footer .connect{
+		float:left; 
+		width:100%;
+	}
+	footer .about-us {
+		padding-right:0px;
+		text-align: center;
+	}
+	footer .logo-space img{
+		padding-left: 7px;
+		padding-bottom:15px;
+	}
+	footer .logo-footer img{
+		display: block;
+		margin: 0 auto;
+		padding-top:15px;
+	}
+	footer .copyright {
+		padding-top:40px;
+	}
+	footer .green-footer{
+		padding: 5px;
+		background-color: rgb(46,169,67);
+	}
+
+/*end Header*/
+ }
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) { ... }
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) { ... }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) { 
+
+ }
+
+	

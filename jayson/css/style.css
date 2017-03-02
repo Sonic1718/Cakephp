@@ -1,0 +1,226 @@
+    /*navigation bar*/
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: right;
+        vertical-align: top;
+        color:#000;
+    }
+
+    /* navbar */
+    .navbar-default {
+        background-color: rgb(46,169,67);
+        border-color: rgb(46,169,67);
+        border-radius:0;
+    }
+
+    /* title */
+    .navbar-default .navbar-brand {
+        padding-left: 20px;
+        color: #ffffff;
+    }
+    .navbar-fixed-top {
+        height: 100px; /* Whatever you want. */
+    }
+    .navbar-brand img{
+        margin-top: -3px;
+        height:128px;
+    }
+
+    .navbar-default .navbar-brand:hover,
+    .navbar-default .navbar-brand:focus {
+        color: #5E5E5E;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+
+    .navbar-nav > li > a {   
+    }
+    .navbar .nav > li > a {
+        color: #ffffff;
+    }
+    .navbar .nav > .members > a {
+        color: #404040;
+    }
+    .developer {
+        background-color: #ffffff;
+        padding: 10px;
+    }
+    .bg-blue {
+        background-color: rgb(46,169,67);
+        color: #ffffff;
+    }
+    #myCarousel {
+        box-shadow: 0px 4px 15px 0px gray;
+    }
+    .carousel-controls .left img{
+        position: absolute;
+        left: -10px;
+        bottom: 10px;
+        height: 70px;
+    }
+    .carousel-inner > .item > img{
+       height:350px;
+     }
+    .panel-default {
+        border-radius: 0;
+    }
+    .panel-default > .panel-heading {
+        border-radius: 0;
+      color: #ffffff;
+      background-color: rgb(46,169,67);
+      border-color: rgb(46,169,67);
+    }
+#fader{
+    height: 300px;
+    margin-left: -1em;
+}
+#fader img{
+	height: 315px;
+    position:absolute;
+}
+
+#next{
+    right: 100px;   
+}
+
+#prev{
+    left: 100px;  
+}
+
+.error-message {
+	padding:5px 1px 5px 50px;
+	background-position: 10px center;
+	color: #D8000C;
+	background: #FFBABA;
+}
+hr.style-one {
+    border: 1;
+    height: 2px;
+    background: #B8B8B8;
+}
+#date{
+    padding:4px 0px 4px 10px;
+    background-color: #7fb700;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+#php{
+    padding:4px 0px 4px 10px;
+    background-color: #ffffff;
+    font-weight: bolder;
+    text-align: justify;
+}
+#igniter{
+    padding:4px 0px 4px 10px;
+    background-color: #0000CC;
+    font-weight: bolder;
+    color:#ffffff;
+}
+#cake{
+    padding:4px 0px 4px 10px;
+    background-color: #FF0000;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#api{
+    padding:4px 0px 4px 10px;
+    background-color: #99FF00;
+    font-weight: bolder;
+    color:#ffffff;
+}
+#sql{
+    padding:4px 0px 4px 10px;
+    background-color: #FF6600;
+    color:#ffffff;
+    font-weight: bolder;
+}
+
+#css{
+    padding:4px 0px 4px 10px;
+    background-color: #66FF00;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#html{
+    padding:4px 0px 4px 10px;
+    background-color: #6633FF;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#javascript{
+    padding:4px 0px 4px 10px;
+    background-color: #33FF66;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#jquery{
+    padding:4px 0px 4px 10px;
+    background-color: #CC00CC;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#ajax{
+    padding:4px 0px 4px 10px;
+    background-color: #CC0000;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#json{
+    padding:4px 0px 4px 10px;
+    background-color: #FFCC00;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#bootstrap{
+    padding:4px 0px 4px 10px;
+    background-color: #000033;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#wordpress{
+    padding:4px 0px 4px 10px;
+    background-color: #333399;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#adobe{
+    padding:4px 0px 4px 10px;
+    background-color: #660000;
+    color:#ffffff;
+    font-weight: bolder;
+}
+
+#text{
+    border-radius: 10px;
+    text-align: justify;
+}
+
+/*--footer--*/
+.lightBrown{
+    background-color: rgba(87, 82, 78, 0.9);
+}
+
+.footerBrown{
+    background-color: #57524E;
+}
+footer{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    background-color: rgb(46,169,67);
+    color: #ffffff;
+}
+
+    /* Small Devices, phones */
+    @media only screen and (max-width : 768px) {
+        .carousel-controls .left img{
+            position: absolute;
+            left: -5px;
+            bottom: 10px;
+            height: 70px;
+        }
+    }

@@ -1,0 +1,460 @@
+	/*navigation bar*/
+	.navbar .navbar-nav {
+  		display: inline-block;
+  		float: none;
+  		vertical-align: top;
+  		color:#000;
+	}
+
+	/* navbar */
+	.navbar-default {
+	    background-color: #eeeeee;
+	    border-color: #E7E7E7;
+	}
+
+	/* title */
+	.navbar-default .navbar-brand {
+    	color:#3300FF;
+	    padding-top: 10px;
+	    padding-bottom: 0px;
+	    height:81px;
+	    line-height: 80px;
+	    margin-left:90px;
+	}
+	.image-container {
+	    position: relative;
+	    width: 200px;
+	    height: 140px;
+		}
+	.image-container .after {
+	    position: absolute;
+	    top: 0;
+	    width: 100%;
+	    height: 100%;
+	    display: none;
+	    cursor: pointer;
+	}
+	.image-container .after img{
+		position: absolute;
+		left: 80px;
+		bottom: 50px;
+	}
+	.image-container:hover .after {
+		margin: 10px;
+	    display: block;
+	    background: rgba(0, 0, 0, .6);
+	}
+
+	.navbar-brand img{
+  
+	    height:85px;
+	}
+
+	.navbar-default .navbar-brand:hover,
+	.navbar-default .navbar-brand:focus {
+	    color: #5E5E5E;
+	}
+
+	.navbar .navbar-collapse {
+  		text-align: center;
+	}
+
+	.navbar-nav > li > a {
+	    padding-top: 30px;
+	    padding-bottom: 0px;
+	    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	    font-size: 12px;
+	}
+	/*end navigation bar*/
+
+/*Header*/
+
+	.image-back{
+		background: url('../images/boot.jpg') no-repeat;
+		background-size: cover;
+	}	
+
+	.group{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.group p{
+		font-size: 13px;
+	}
+
+	.scroll{
+		padding-top: 100px;
+		padding-bottom: 50px;
+		background: url('../images/bg-green.jpg') no-repeat;
+		background-size: cover;
+	}
+	p{
+		font-size: 15px;
+	}
+	h1 {
+		font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+	}
+	.info {
+		background-color: rgba(255,200,0, 0.8);
+		text-align: fixed;
+		color:green;
+	} 
+	.s-logo {
+		padding-top:50px;
+		padding-bottom:50px;
+	}
+	.check{
+		padding-top:50px;
+		padding-bottom:50px;
+	}
+	.carousel-inner > .item {
+        background: url('../images/carousel-background.jpg') no-repeat;
+		background-size: cover;
+     }
+	.carousel-inner > .item > img{
+	   opacity: 0.7;
+       width:1150px;
+       height:360px;
+     }
+    strong {
+    	color:green;
+    }
+	.carousel-control {
+		background-image:none !important;
+		opacity: 1;
+	}
+	.carousel-controls .left img{
+		position: absolute;
+      	left: -10px;
+      	bottom: 20px;
+	}
+	.carousel-controls .right img{
+		position: absolute;
+      	right: -10px;
+      	bottom: 20px;
+	}
+	.carousel-control:hover {
+		background-image:none !important;
+	}
+	.carousel-indicators {
+	  bottom:-53px;
+	}
+	.carousel-indicators li {
+		width: 15px;
+	    height: 15px;
+	    border-radius: 50%;
+	    border: none;
+	    background-color: #336600;
+	    margin: 5px;
+	}
+	.carousel-indicators .active {
+		width: 15px;
+    	height: 15px;
+    	border-radius: 50%; 
+	  	margin: 5px;
+    	background-color: #FFD700
+	}
+	.carousel-caption{
+        left: 5%;
+        top: 10%;
+        text-align: left;
+	}
+	.review {
+		margin-right: 5px;
+		background: url('../images/group_fitness1.jpg') no-repeat;
+		background-size: cover;
+		color: #ffffff;
+	}
+	.review2 {
+		background: url('../images/group_fitness3.jpg') no-repeat;
+		background-size: cover;
+		color: #ffffff;
+	}
+	.buddy {
+		margin-right: 5px;
+		background: url('../images/group_fitness2.jpg') no-repeat;
+		background-size: cover;
+		color: #ffffff;
+	}
+	a{
+		color:#ffffff;
+	}
+	a:hover{
+		color:#ffffff;
+	}
+	.green {
+		background-color: rgba(0,80,0, 0.8);
+	}
+	.green2 {
+		padding-top: 166px;
+		background-color: rgba(0,80,0, 0.8);
+	}
+	.yellow {
+		margin-bottom: 5px;
+		padding-top: 123px;
+		background-color: rgba(255,153,0, 0.8);
+	}
+	.yellow2 {
+		margin-right: 5px;
+		background-color: rgba(255,153,0, 1.0);
+		color: #ffffff;
+	}
+	.group-review {
+		background: url('../images/group_fitness1.jpg') no-repeat;
+		background-size: cover;
+		opacity: 0.7;
+	}
+	.sponsor {
+		padding-top:20px; 
+		padding-bottom:20px; 
+	}
+	footer {
+		padding-top: 50px;
+		padding-bottom: 50px;
+		background-color: #eeeeee;
+	}
+	footer a{
+		color:#000;
+	}
+	footer a:hover{
+		color:#000;
+	}
+	footer .logo-space img{
+		padding:5px;
+	}
+
+/*end Header*/
+
+
+/*Media Query*/
+
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px) { 
+	/*navigation bar*/
+	.navbar .navbar-nav {
+  		display: inline-block;
+  		float: none;
+  		vertical-align: top;
+  		color:#000;
+	}
+
+	/* navbar */
+	.navbar-default {
+	    background-color: #eeeeee;
+	    border-color: #E7E7E7;
+	}
+
+	/* title */
+	.navbar-default .navbar-brand {
+    	color:#3300FF;
+	    padding-top: 10px;
+	    padding-bottom: 0px;
+	    height:81px;
+	    line-height: 80px;
+	    margin-left:50px;
+	}
+	.image-container {
+	    position: relative;
+	    width: 200px;
+	    height: 140px;
+		}
+	.image-container .after {
+	    position: absolute;
+	    top: 0;
+	    width: 100%;
+	    height: 100%;
+	    display: none;
+	    cursor: pointer;
+	}
+	.image-container .after img{
+		position: absolute;
+		left: 80px;
+		bottom: 50px;
+	}
+	.image-container:hover .after {
+		margin: 10px;
+	    display: block;
+	    background: rgba(0, 0, 0, .6);
+	}
+
+	.navbar-brand img{
+	    height:85px;
+	}
+
+	.navbar-default .navbar-brand:hover,
+	.navbar-default .navbar-brand:focus {
+	    color: #5E5E5E;
+	}
+
+	.navbar .navbar-collapse {
+  		text-align: center;
+	}
+
+	.navbar-nav > li > a {
+	    padding-top: 30px;
+	    padding-bottom: 0px;
+	    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	    font-size: 12px;
+	}
+	/*end navigation bar*/
+
+/*Header*/
+
+	.image-back{
+		background: url('../images/boot.jpg') no-repeat;
+		background-size: cover;
+	}	
+
+	.group{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.group p{
+		font-size: 13px;
+	}
+
+	.scroll{
+		padding-top: 100px;
+		padding-bottom: 50px;
+		background: url('../images/bg-green.jpg') no-repeat;
+		background-size: cover;
+	}
+	p{
+		font-size: 12px;
+	}
+	h1 {
+		font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+		font-size: 20px;
+	}
+	strong {
+    	color:green;
+    }
+	.info {
+		background-color: rgba(255,200,0, 0.8);
+		text-align: fixed;
+		color:green;
+	} 
+	.carousel-inner > .item {
+        background: url('../images/carousel-background.jpg') no-repeat;
+		background-size: cover;
+     }
+	.carousel-inner > .item > img{
+	   opacity: 0.7;
+       width:1150px;
+       height:360px;
+     }
+	.carousel-control {
+			  position: absolute;
+      left: -10px;
+      bottom: 20px;
+      color: #000;
+		background-image:none !important;
+		opacity: 1;
+	}
+	.carousel-control:hover {
+		background-image:none !important;
+	}
+	.carousel-indicators {
+	  bottom:-50px;
+	}
+	.carousel-indicators li {
+		width: 15px;
+	    height: 15px;
+	    border-radius: 50%;
+	    border: none;
+	    background-color: #336600;
+	    margin: 4px;
+	}
+	.carousel-indicators .active {
+		width: 15px;
+    	height: 15px;
+    	border-radius: 50%; 
+	  	margin: 5px;
+    	background-color: #FFD700
+	}
+	.carousel-caption{
+        left: 15%;
+        top: 0%;
+        text-align: left;
+	}
+	.bottom img{
+		margin-bottom: 10px;
+	}
+	.review {
+		margin-right: 5px;
+		background: url('../images/group_fitness1.jpg') no-repeat;
+		background-size: cover;
+		color: #ffffff;
+	}
+	.review2 {
+		margin-right: 5px;
+		background: url('../images/group_fitness3.jpg') no-repeat;
+		background-size: cover;
+		color: #ffffff;
+	}
+	.buddy {
+		margin-right: 5px;
+		background: url('../images/group_fitness2.jpg') no-repeat;
+		background-size: cover;
+		color: #ffffff;
+	}
+	a{
+		color:#ffffff;
+	}
+	a:hover{
+		color:#ffffff;
+	}
+	.green {
+		background-color: rgba(0,80,0, 0.8);
+	}
+	.green2 {
+		padding-top: 148px;
+		background-color: rgba(0,80,0, 0.8);
+	}
+	.yellow {
+		margin-bottom: 5px;
+		padding-top: 105px;
+		background-color: rgba(255,153,0, 0.8);
+	}
+	.yellow2 {
+		margin-right: 5px;
+		background-color: rgba(255,153,0, 1.0);
+		color: #ffffff;
+	}
+	.group-review {
+		background: url('../images/group_fitness1.jpg') no-repeat;
+		background-size: cover;
+		opacity: 0.7;
+	}
+	footer {
+		text-align: center;
+		padding-top: 50px;
+		padding-bottom: 50px;
+		background-color: #eeeeee;
+	}
+	footer b{
+		font-size: 20px;
+	}
+	footer p{
+		font-size: 18px;
+	}
+	footer a{
+		color:#000;
+	}
+	footer a:hover{
+		color:#000;
+	}
+ }
+
+ /* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) { 
+	
+ }
+@media (min-width: @screen-md-min) and (max-width: @screen-md-max) { 
+
+ }
+@media (min-width: @screen-lg-min) { 
+
+ }
+
+	

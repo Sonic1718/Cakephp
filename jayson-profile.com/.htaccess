@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^jayson\-profile\.com\.denrcomfiling\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.jayson\-profile\.com\.denrcomfiling\.org$
+RewriteRule ^/?$ "http\:\/\/jayson" [R=301,L]
+

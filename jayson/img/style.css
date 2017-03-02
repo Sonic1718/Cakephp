@@ -1,0 +1,134 @@
+#fader{
+    height: 300px;
+    margin-left: -1em;
+}
+#fader img{
+	height: 315px;
+    position:absolute;
+}
+
+#next{
+    right: 100px;   
+}
+
+#prev{
+    left: 100px;  
+}
+
+.error-message {
+	padding:5px 1px 5px 50px;
+	background-position: 10px center;
+	color: #D8000C;
+	background: #FFBABA;
+}
+hr.style-one {
+    border: 1;
+    height: 2px;
+    background: #B8B8B8;
+}
+#date{
+    padding:4px 0px 4px 10px;
+    background-color: #7fb700;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+#php{
+    padding:4px 0px 4px 10px;
+    background-color: #7fb700;
+    font-weight: bolder;
+    color:#ffffff;
+}
+#igniter{
+    padding:4px 0px 4px 10px;
+    background-color: #0000CC;
+    font-weight: bolder;
+    color:#ffffff;
+}
+#cake{
+    padding:4px 0px 4px 10px;
+    background-color: #FF0000;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#api{
+    padding:4px 0px 4px 10px;
+    background-color: #99FF00;
+    font-weight: bolder;
+    color:#ffffff;
+}
+#sql{
+    padding:4px 0px 4px 10px;
+    background-color: #FF6600;
+    color:#ffffff;
+    font-weight: bolder;
+}
+
+#css{
+    padding:4px 0px 4px 10px;
+    background-color: #66FF00;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#html{
+    padding:4px 0px 4px 10px;
+    background-color: #6633FF;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#javascript{
+    padding:4px 0px 4px 10px;
+    background-color: #33FF66;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#jquery{
+    padding:4px 0px 4px 10px;
+    background-color: #CC00CC;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#ajax{
+    padding:4px 0px 4px 10px;
+    background-color: #CC0000;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#json{
+    padding:4px 0px 4px 10px;
+    background-color: #FFCC00;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#bootstrap{
+    padding:4px 0px 4px 10px;
+    background-color: #000033;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#wordpress{
+    padding:4px 0px 4px 10px;
+    background-color: #333399;
+    color:#ffffff;
+    font-weight: bolder;
+}
+#adobe{
+    padding:4px 0px 4px 10px;
+    background-color: #660000;
+    color:#ffffff;
+    font-weight: bolder;
+}
+
+#text{
+    padding:4px 0px 4px 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+/*--footer--*/
+.lightBrown{
+    background-color: rgba(87, 82, 78, 0.9);
+}
+
+.footerBrown{
+    background-color: #57524E;
+}
